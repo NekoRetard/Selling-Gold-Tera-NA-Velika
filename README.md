@@ -2,7 +2,7 @@
 
 Hi 
 
-<p> Selling Gold in Velika NA
+<br> Selling Gold in Velika NA </br>
 Amount in stock: 4M
 Price: 25$/1M
 Payment: Paypal only
