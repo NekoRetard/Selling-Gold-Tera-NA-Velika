@@ -2,8 +2,8 @@
 
 Hi 
 
-Selling Gold in Velika NA.
-Amount in stock: 4M
+<p> Selling Gold in Velika NA.</p>
+<p> Amount in stock: 4M </p>
 Price: 25$/1M
 Payment: Paypal only
 Discord: Kamui#8817
